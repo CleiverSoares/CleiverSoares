@@ -39,9 +39,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverSoares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Snake animation](https://github.com/FerrazLeandro/FerrazLeandro/blob/output/github-contribution-grid-snake.svg)
-</div>
-                                                                                                                                                 - <div align="center">
+                                                                                                                                                                         <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+                                                                                                                                                 
+![Snake animation](https://github.com/FerrazLeandro/FerrazLeandro/blob/output/github-contribution-grid-snake.svg)
+</div>
+           
                                                                                                                                                  
