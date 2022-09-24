@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/cleiver-soares-b81526169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:cleiversoares2@gmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  <a href = "https://api.whatsapp.com/send?phone=5521966525932"><img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target = "_blank"></a>
+ <a href = "mailto:cleiversoares2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div>
 
 <h2>Languages</h2>
