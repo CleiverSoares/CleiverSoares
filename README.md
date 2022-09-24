@@ -3,6 +3,10 @@
 - 💻 Residente em Software - Serratec
 - 🌱 Futuro Desenvolvedor FullStack
 
+- <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <h2>Networks</h2>
 <div style="display: inline_block">
 <a href="https://www.linkedin.com/in/cleiver-soares-b81526169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
