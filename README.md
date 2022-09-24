@@ -19,7 +19,9 @@
 <img align="center" alt="Cleiver-Html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
 <img align="center" alt="Cleiver-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img align="center" alt="Cleiver-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-<img align="center" alt="Cleiver-POO" height="40" width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.dreamstime.com%2F%25C3%25ADcone-isolado-da-programa%25C3%25A7%25C3%25A3o-orientada-ao-objeto-ilustra%25C3%25A7%25C3%25A3o-simples-do-elemento-dos-%25C3%25ADcones-conceito-tecnologia-projeto-image142287627&psig=AOvVaw3LEql_rXbGtySlFXgWJbpj&ust=1664114482937000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjNyZfMrfoCFQAAAAAdAAAAABAD.png" width="40" height="40"/>
+<template hfz import:fa-poo="1.3.0">
+  <fa-poo size="44" color="green"></fa-poo>
+</template>
 
 <h2>Tools</h2>
 <div style="display: inline_block">
