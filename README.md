@@ -33,8 +33,8 @@
 <h2>Stats</h2>
 <div align="center">
 <a href="https://github.com/CleiverSoares">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=FerrazLeandro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrazLeandro&layout=compact&langs_count=7&theme=dark"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=CleiverSoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverSoares&layout=compact&langs_count=7&theme=dark"/>
 
 
 ![Snake animation](https://github.com/FerrazLeandro/FerrazLeandro/blob/output/github-contribution-grid-snake.svg)
