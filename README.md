@@ -31,12 +31,13 @@
 <img align="center" alt="Cleiver-Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
 <img align="center" alt="Cleiver-Jenkins" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
 
-<h2>Stats</h2>
+                                                                                                                                              
+ <h2>Stats</h2>                                                                                                                                             
 <div align="center">
-<a href="https://github.com/FerrazLeandro">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=CleiverSoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverSoares&layout=compact&langs_count=7&theme=dark"/>
-
+<a href="https://github.com/CleiverSoares">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverSoares&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleiverSoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ![Snake animation](https://github.com/FerrazLeandro/FerrazLeandro/blob/output/github-contribution-grid-snake.svg)
 </div>
