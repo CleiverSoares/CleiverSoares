@@ -39,6 +39,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverSoares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CleiverSoares&theme=dark&hide_border=true&border_radius=4.8)](https://git.io/streak-stats)
                                                                                                                                                                        
                                                                                                                                                  
 ![Snake animation](https://github.com/FerrazLeandro/FerrazLeandro/blob/output/github-contribution-grid-snake.svg)
