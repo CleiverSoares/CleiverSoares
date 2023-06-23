@@ -1,7 +1,7 @@
 ### Hi Devs! 🚀
 
-- 💻 Residente em Software - Serratec.
-- 🌱 Futuro Desenvolvedor FullStack Jr.
+
+- 🌱  Desenvolvedor FullStack Trainee.
 
 <h2>Networks</h2>
 <div style="display: inline_block">
