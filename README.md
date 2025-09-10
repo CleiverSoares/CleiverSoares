@@ -1,14 +1,8 @@
 ### Hi Devs! 🚀
 
-Sou **Desenvolvedor Full Stack**, com mais de dois anos de experiência, especializado em criar soluções eficientes e escaláveis. Minha jornada me transformou de um programador com foco em código em um profissional com visão de negócio, utilizando metodologias ágeis e arquiteturas modernas para entregar valor de forma contínua. Tenho um perfil proativo, sempre buscando otimizar processos e resolver problemas complexos.
-
----
-
-### Minha Experiência 📈
-
-* **Sistemas de Gestão:** Atuei no desenvolvimento e otimização de um sistema de gestão de leads, onde implementei dashboards analíticos, ferramentas de metas e integrações com diversas plataformas (CRM interno, RD Station, ActiveCampaign).
-* **Microsserviços e Automação:** Criei um microserviço para automatizar a comunicação do time de marketing, que dispara webhooks e notifica usuários via WhatsApp e e-mail.
-* **DevOps e Qualidade:** Implementei rotinas de CI/CD para automatizar a pipeline de desenvolvimento, incluindo testes unitários diários com notificações via WhatsApp. Tenho experiência com Docker, Kubernetes (OKD) e Grafana para monitoramento.
+Sou **Desenvolvedor Full Stack**, com mais de três anos de experiência, especializado em criar soluções eficientes e escaláveis.
+Minha jornada profissional foi enriquecida por duas **pós-graduações, em Engenharia de Software e em Liderança**, o que me transformou de um programador focado em código em um profissional com uma visão de negócio abrangente.
+Utilizo metodologias ágeis e arquiteturas modernas para entregar valor de forma contínua, com um perfil proativo que busca sempre otimizar processos e resolver problemas complexos.
 
 ---
 
@@ -34,7 +28,7 @@ Sou **Desenvolvedor Full Stack**, com mais de dois anos de experiência, especia
 <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img align="center" alt="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 <img align="center" alt="Vue.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-<img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.js.org/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 
 <br>
 <br>
