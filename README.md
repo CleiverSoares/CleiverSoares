@@ -46,17 +46,12 @@ Perfil **proativo**, com foco em aprendizado constante e resolução criativa de
 
 <br>
 
-<!-- AWS services (badges consistentes) -->
 <img alt="EC2" src="https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
 <img alt="S3"  src="https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
 <img alt="RDS" src="https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
 <img alt="EKS" src="https://img.shields.io/badge/EKS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
 <img alt="QuickSight" src="https://img.shields.io/badge/QuickSight-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
-
-<!-- OKD / OpenShift em badge -->
 <img alt="OKD / OpenShift" src="https://img.shields.io/badge/OKD%20%2F%20OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white">
-
-
 
 <br>
 <br>
@@ -70,8 +65,8 @@ Perfil **proativo**, com foco em aprendizado constante e resolução criativa de
 <img align="center" alt="Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
 <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="center" alt="IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-<img align="center" alt="PuTTY" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"/>
 <img align="center" alt="FileZilla" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"/>
+</div>
 
 ---
 
@@ -94,4 +89,10 @@ Perfil **proativo**, com foco em aprendizado constante e resolução criativa de
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverSoares&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-![Snake animation](https://github.com/FerrazLeandro/FerrazLeandro/blob/output/github-contribution-grid-snake.svg)
+---
+
+### 🏆 Extras  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CleiverSoares&theme=tokyo-night)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CleiverSoares&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
