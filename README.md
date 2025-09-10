@@ -14,24 +14,24 @@ Perfil **proativo**, com foco em aprendizado constante e resolução criativa de
   
 **Linguagens**
 <br>
-<img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="center" alt="Vue.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-<img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="Java" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img alt="JavaScript" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="PHP" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img alt="C#" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img alt="React" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img alt="Vue.js" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+<img alt="HTML5" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS3" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
 <br>
 <br>
 
 **Frameworks & Libraries**
 <br>
-<img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-<img align="center" alt="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
-<img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img align="center" alt="Swagger" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
+<img alt="Spring" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+<img alt="Laravel" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
+<img alt="Bootstrap" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img alt="Swagger" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
 
 <br>
 <br>
@@ -43,29 +43,22 @@ Perfil **proativo**, com foco em aprendizado constante e resolução criativa de
 <img alt="SQL Server" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 <img alt="AWS" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
 <img alt="GCP" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-
-<br>
-
-<img alt="EC2" src="https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
-<img alt="S3"  src="https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
-<img alt="RDS" src="https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
-<img alt="EKS" src="https://img.shields.io/badge/EKS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
-<img alt="QuickSight" src="https://img.shields.io/badge/QuickSight-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
-<img alt="OKD / OpenShift" src="https://img.shields.io/badge/OKD%20%2F%20OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white">
+<img alt="Kubernetes (EKS)" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+<img alt="OpenShift/OKD" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg"/>
 
 <br>
 <br>
 
 **DevOps & Ferramentas**
 <br>
-<img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="center" alt="Kubernetes" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
-<img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="center" alt="Grafana" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
-<img align="center" alt="Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
-<img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="center" alt="IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-<img align="center" alt="FileZilla" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"/>
+<img alt="Docker" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img alt="Kubernetes" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+<img alt="Git" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img alt="Grafana" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
+<img alt="Jira" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
+<img alt="VSCode" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img alt="IntelliJ" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+<img alt="FileZilla" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"/>
 </div>
 
 ---
