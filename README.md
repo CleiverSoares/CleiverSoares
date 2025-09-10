@@ -43,7 +43,17 @@ Perfil **proativo**, com foco em aprendizado constante e resolução criativa de
 <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="center" alt="GCP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-<img align="center" alt="QuickSight" height="40" width="50" src="https://static-00.iconduck.com/assets.00/aws-quicksight-icon-2048x2048-y6c6r3s6.png"/>
+
+
+<img align="center" alt="EC2" height="40" width="50" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+<img align="center" alt="RDS" height="40" width="50" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+<img align="center" alt="EKS" height="40" width="50" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+
+
+<img align="center" alt="OKD" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg"/>
+
+<img src="https://img.shields.io/badge/AWS-QuickSight-orange?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
 
 <br>
 <br>
