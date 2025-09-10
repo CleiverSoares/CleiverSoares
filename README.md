@@ -38,21 +38,24 @@ Perfil **proativo**, com foco em aprendizado constante e resolução criativa de
 
 **Bancos de Dados & Cloud**
 <br>
-<img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-<img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-<img align="center" alt="GCP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+<img alt="PostgreSQL" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img alt="MySQL" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img alt="SQL Server" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+<img alt="AWS" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img alt="GCP" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
 
+<br>
 
-<img align="center" alt="EC2" height="40" width="50" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
-<img align="center" alt="RDS" height="40" width="50" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
-<img align="center" alt="EKS" height="40" width="50" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+<!-- AWS services (badges consistentes) -->
+<img alt="EC2" src="https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+<img alt="S3"  src="https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+<img alt="RDS" src="https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+<img alt="EKS" src="https://img.shields.io/badge/EKS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+<img alt="QuickSight" src="https://img.shields.io/badge/QuickSight-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
 
+<!-- OKD / OpenShift em badge -->
+<img alt="OKD / OpenShift" src="https://img.shields.io/badge/OKD%20%2F%20OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white">
 
-<img align="center" alt="OKD" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg"/>
-
-<img src="https://img.shields.io/badge/AWS-QuickSight-orange?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 
 <br>
